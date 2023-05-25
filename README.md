@@ -12,7 +12,8 @@ O projeto de lista de tarefas (To Do List) desenvolvido com #ReactJS é uma ferr
 * Selecionar categorias para as tarefas.
 
 # Resultado final
-![image](https://github.com/rebecasantana/Todo-list/assets/96356018/1b9eacdb-72d8-4ca4-bcdc-f0f507e89590)
+![image](https://github.com/rebecasantana/Todo-list/assets/96356018/226b2c8b-0ea8-4f4e-90bb-04d314bd9a5d)
+
 
 ---
 feito com ❤️ por [Rebeca S](https://github.com/rebecasantana) 😊
